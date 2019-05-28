@@ -1,2 +1,3 @@
 # hello-world
 repository creation
+im new to Git hub .... started learning...
